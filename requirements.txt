@@ -11,13 +11,7 @@ tensorboard-plugin-profile==2.2.0
 tensorflow-datasets==2.1.0
 tensorflow-hub==0.7.0
 tensorflow-probability==0.9.0
-
-# Optional: only used in chapter 13.
-# NOT AVAILABLE ON WINDOWS
 tfx==0.21.2
-
-# Optional: only used in chapter 16.
-# NOT AVAILABLE ON WINDOWS
 tensorflow-addons==0.8.3
 scikit-image==0.16.2
 graphviz==0.13.2
